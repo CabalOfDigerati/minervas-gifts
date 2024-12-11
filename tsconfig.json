@@ -7,6 +7,9 @@
       "$digerati/*": [
         "src/digerati/*"
       ],
+      "$minerva/*": [
+        "src/minerva/*"
+      ],
     },
     "types": [
       "@finsweet/ts-utils"
