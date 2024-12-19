@@ -70,7 +70,6 @@ export const cleanFormPostData = () => {
                 radioButton.remove();
             }
         });
-        return true;
     });
 };
 
